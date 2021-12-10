@@ -1,0 +1,55 @@
+#title = COVID-19 pandemic leads to major backsliding on childhood vaccinations, new WHO, UNICEF data shows
+#url = https://www.who.int/news/item/15-07-2021-covid-19-pandemic-leads-to-major-backsliding-on-childhood-vaccinations-new-who-unicef-data-shows
+
+23 million children missed out on basic vaccines through routine immunization services in 2020 – 3.7 million more than in 2019 - according to official data published today by WHO and UNICEF. This latest set of comprehensive worldwide childhood immunization figures, the first official figures to reflect global service disruptions due to COVID-19, show a majority of countries last year experienced drops in childhood vaccination rates.
+
+Concerningly, most of these – up to 17 million children – likely did not receive a single vaccine during the year, widening already immense inequities in vaccine access. Most of these children live in communities affected by conflict, in under-served remote places, or in informal or slum settings where they face multiple deprivations including limited access to basic health and key social services.
+
+“Even as countries clamour to get their hands on COVID-19 vaccines, we have gone backwards on other vaccinations, leaving children at risk from devastating but preventable diseases like measles, polio or meningitis,” said Dr Tedros Adhanom Ghebreyesus, WHO Director-General. “Multiple disease outbreaks would be catastrophic for communities and health systems already battling COVID-19, making it more urgent than ever to invest in childhood vaccination and ensure every child is reached.”
+
+In all regions, rising numbers of children miss vital first vaccine doses in 2020; millions more miss later vaccines
+
+Disruptions in immunization services were widespread in 2020, with the WHO Southeast Asian and Eastern Mediterranean Regions most affected.  As access to health services and immunization outreach were curtailed, the number of children not receiving even their very first vaccinations increased in all regions. As compared with 2019, 3.5 million more children missed their first dose of diphtheria, tetanus and pertussis vaccine (DTP-1) while 3 million more children missed their first measles dose. 
+
+“This evidence should be a clear warning – the COVID-19 pandemic and related disruptions cost us valuable ground we cannot afford to lose – and the consequences will be paid in the lives and wellbeing of the most vulnerable,” said Henrietta Fore, UNICEF Executive Director. “Even before the pandemic, there were worrying signs that we were beginning to lose ground in the fight to immunize children against preventable child illness, including with the widespread measles outbreaks two years ago. The pandemic has made a bad situation worse. With the equitable distribution of COVID-19 vaccines at the forefront of everyone’s minds, we must remember that vaccine distribution has always been inequitable, but it does not have to be.”
+
+Table 1: Countries with the greatest increase in children not receiving a first dose of diphtheria-tetanus-pertussis combined vaccine (DTP-1)
+
+ 	2019	2020
+India	1'403'000	3'038'000
+Pakistan	567'000	968'000
+Indonesia	472'000	797'000
+Philippines	450'000	557'000
+Mexico	348000	454'000
+Mozambique	97'000	186'000
+Angola	399'000	482'000
+United Republic of Tanzania	183'000	249'000
+Argentina	97'000	156'000
+Venezuela (Bolivarian Republic of)	75'000	134'000
+Mali	136'000	193'000
+ 
+
+The data shows that middle-income countries now account for an increasing share of unprotected children – that is, children missing out on at least some vaccine doses. India is experiencing a particularly large drop, with DTP-3 coverage falling from 91% to 85%.
+
+Fuelled by funding shortfalls, vaccine misinformation, instability and other factors, a troubling picture is also emerging in WHO’s Region of the Americas, where vaccination coverage continues to fall. Just 82% of children are fully vaccinated with DTP, down from 91% in 2016.
+
+Countries risk resurgence of measles, other vaccine-preventable diseases
+
+Even prior to the COVID-19 pandemic, global childhood vaccination rates against diphtheria, tetanus, pertussis, measles and polio had stalled for several years at around 86%. This rate is well below the 95% recommended by WHO to protect against measles –often the first disease to resurge when children are not reached with vaccines - and insufficient to stop other vaccine-preventable diseases.
+
+With many resources and personnel diverted to support the COVID-19 response, there have been significant disruptions to immunization service provision in many parts of the world. In some countries, clinics have been closed or hours reduced, while people may have been reluctant to seek healthcare because of fear of transmission or have experienced challenges reaching services due to lockdown measures and transportation disruptions.
+
+“These are alarming numbers, suggesting the pandemic is unravelling years of progress in routine immunization and exposing millions of children to deadly, preventable diseases”, said Dr Seth Berkley, CEO of Gavi, the Vaccine Alliance. “This is a wake-up call – we cannot allow a legacy of COVID-19 to be the resurgence of measles, polio and other killers. We all need to work together to help countries both defeat COVID-19, by ensuring global, equitable access to vaccines, and get routine immunization programmes back on track. The future health and wellbeing of millions of children and their communities across the globe depends on it.” 
+
+Concerns are not just for outbreak-prone diseases. Already at low rates, vaccinations against human papillomavirus (HPV) - which protect girls against cervical cancer later in life - have been highly affected by school closures. As a result, across countries that have introduced HPV vaccine to date, approximately 1.6 million more girls missed out in 2020. Globally only 13% girls were vaccinated against HPV, falling from 15% in 2019.
+
+Agencies call for urgent recovery and investment in routine immunization
+
+As countries work to recover lost ground due to COVID-19 related disruptions, UNICEF, WHO and partners like Gavi, the Vaccine Alliance are supporting efforts to strengthen immunization systems by:
+
+Restoring services and vaccination campaigns so countries can safely deliver routine immunization programmes during the COVID-19 pandemic;
+Helping health workers and community leaders communicate actively with caregivers to explain the importance of vaccinations;
+Rectifying gaps in immunization coverage, including identifying communities and people who have been missed during the pandemic.
+Ensuring that COVID-19 vaccine delivery is independently planned for and financed and that it occurs alongside, and not at the cost of childhood vaccination services.
+Implementing country plans to prevent and respond to outbreaks of vaccine-preventable diseases, and strengthen immunization systems as part of COVID-19 recovery efforts
+The agencies are working with countries and partners to deliver the ambitious targets of the global Immunization Agenda 2030, which aims to achieve 90% coverage for essential childhood vaccines; halve the number of entirely unvaccinated, or ‘zero dose’ children, and increase the uptake of newer lifesaving vaccines such as rotavirus or pneumococcus in low and middle-income countries.

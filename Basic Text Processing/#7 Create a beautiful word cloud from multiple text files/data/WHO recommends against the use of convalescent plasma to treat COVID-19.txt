@@ -1,0 +1,15 @@
+#title = WHO recommends against the use of convalescent plasma to treat COVID-19
+#url = https://www.who.int/news/item/07-12-2021-who-recommends-against-the-use-of-convalescent-plasma-to-treat-covid-19
+Trials for severe and critical patients should continue
+
+WHO has updated its living guideline on COVID-19 therapeutics to include convalescent plasma. For non-severe COVID-19 patients, WHO recommends against its use, while it should only be used within clinical trials for severe and critical COVID-19 patients.
+
+Convalescent plasma is a transfusion of blood plasma from someone who has recovered from COVID-19.
+
+Current evidence shows that convalescent plasma does not improve survival or reduce the need for mechanical ventilation, while it has significant costs.
+
+An independent panel of experts, the guidelines development group, looked at pooled data from 16 randomized controlled trials, including 16 236 patients with non-severe, severe, and critical covid-19 infection.
+
+While the evidence that convalescent plasma has no benefit in non-severe patients was certain, it was less so in the case of severe and critically ill patients. So, randomized clinical trials for these subgroups should continue.
+
+This is the 7th update of WHO’s living guidelines on COVID-19 therapeutics. Read more about previous and upcoming recommendations on WHO’s website on therapeutics

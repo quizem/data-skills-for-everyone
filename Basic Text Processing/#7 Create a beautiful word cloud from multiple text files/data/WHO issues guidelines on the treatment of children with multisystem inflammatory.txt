@@ -1,0 +1,12 @@
+#title = WHO issues guidelines on the treatment of children with multisystem inflammatory syndrome associated with COVID-19
+#url = https://www.who.int/news/item/23-11-2021-who-issues-guidelines-on-the-treatment-of-children-with-multisystem-inflammatory-syndrome-associated-with-covid-19
+
+WHO today issued updated guidelines on the management of multisystem inflammatory syndrome in children associated with COVID-19 (MIS-C).
+
+MIS-C is a rare but serious condition where children with COVID-19 develop inflammation affecting different organs of the body. Children with this condition need specialized care, and may need to be admitted to intensive care. Although MIS-C is a serious condition, with the right medical care, children with this condition recover.
+
+WHO’s updated guidelines recommend the use of corticosteroids in hospitalized children (aged 0-18 years) with this condition, in addition to supportive treatment and care. This recommendation comes following the availability of three observational studies, pooling data from 885 patients in total.
+
+WHO first described this condition in May 2020, and provided a preliminary clinical definition.
+
+Overall, children remain at a low of risk of developing severe or critical COVID-19, but similar to adults, certain underlying conditions make children more susceptible to severe disease. The most commonly reported of these conditions are obesity, chronic lung disease (including asthma), cardiovascular disease and immunosuppression. 
