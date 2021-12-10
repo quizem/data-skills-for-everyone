@@ -1,28 +1,55 @@
 """
 TO DO
 ======
+The focus of the tutorial will not be on the data generation so I will
+not recod the data generation steps or I can include it for additional 
+bonus:
 
-1. read data
-2. combine files into a single one
-3. Optional preprocessing
-   Notes:
-       - default preprocessing will be applied 
-       - e.g. stopword removal, plural normalization
-       - you can add additional steps to remove more words you want
-    
-4. configure wordcloud settings
-5. explore different options for word cloud creation
-   - create word cloud from raw text
-   - generate from frequecies (this could be another video)
-   
-6. automate wordcloud creation
+    1. Data genetation
+    2. Setting up template
+    3. Generate pdf
+    4. Optional styling
+    5. Automate report generation
 
+
+Refs:
+    https://en.wikipedia.org/wiki/Academic_grading_in_the_United_States#Rank-based_grading
 """
 #===================== IMPORTS ===============================================
 import os
-from wordcloud import WordCloud
-import matplotlib.pyplot as plt
+import openpyxl
+import pandas as pd
+from faker import Faker
 from pathlib import Path
+import numpy as np
+
+
+#===================== GENERATE DATA ========================================
+# We fake some class data from the normal distribution
+
+class_averages = {
+    'math': 65,
+    'physics':70,
+    'chemistry': 59,
+    
+    }
+number_of_students = 35
+sigma = 25
+
+math_grades = np.round(np.random.normal(loc = class_averages['math'],
+                               scale = sigma,
+                               size = number_of_students),1)
+
+physics_grades = np.round(np.random.normal(loc = class_averages['physics'],
+                               scale = sigma,
+                               size = number_of_students),1)
+
+chem_grades = np.round(np.random.normal(loc = class_averages['chemistry'],
+                               scale = sigma,
+                               size = number_of_students),1)
+
+df = pd.DataFrame(zip(math_grades,physics_grades,chem_grades),
+                  columns=['math','physics','chemistry'])
 
 
 
@@ -52,47 +79,13 @@ def load_data(data_source):
 text = load_data(data_source = DATA_FOLDER)
 
 #=================== 3. PREPROCESS DATA ======================================
-"""
--remove unwanted character such as punctuationns etc. 
-This is done for you by wordcloud package
-
--if you have specific prior words you don't want to include. 
-By default, common English stopwords are removed
-https://www.textfixer.com/tutorials/common-english-words.txt
-"""
-
 
 
 #=================== 4. CONFIGURE WORD CLOUD SETTINGS ========================
-wordcloud_settings = {
-'background_color':'black',
-'font_path':r".\fonts\RobotoSlab-Bold.ttf",
-'include_numbers':False,
-'min_word_length':0,
-'width':800,
-'height':500,
-'colormap':'Reds',
-'scale':6,
-}
 
-#Oranges,Reds
+
 
 #=================== 5. GENERATE WORDCLOUD ===================================
-def gencloud(text,settings = wordcloud_settings,destination=None):
-    
-    cloud = WordCloud(**settings)
-    output = cloud.generate(text=text)
-    plt.imshow(output,interpolation='bilinear')
-    plt.axis('off')
-    
-    if destination:
-        output_file = os.path.join(destination, 'wordcloud.png')
-        plt.savefig(output_file,dpi=300)
-    else:
-        plt.savefig('wordcloud.png',dpi=300)
-
-
-gencloud(text,settings = wordcloud_settings,destination=None)
 
 
 # Automate everything we have done
@@ -105,7 +98,6 @@ def automate(source,destination):
 
 import argparse
 import configparser
-
 if __name__ == '__main__':
         parser = argparse.ArgumentParser()
         parser.add_argument('-s','--source',type=str,help='source folder',default=r'.\data')
