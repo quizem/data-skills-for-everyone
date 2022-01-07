@@ -152,10 +152,14 @@ def overal_gpa(grades):
     """
     Return over  all gpa for all grades obtained
     """
-    
-    result = sum(grades)/len(grades)
-    return calculate_gpa(result)
+    result = [calculate_gpa(grade) for grade in grades]
+    result = sum(result)/len(result)
+    return round(result,1)
 
+
+sample1 = list(df.itertuples())[2]
+grades = [grade for grade in sample1 if isinstance(grade,float)]
+overal_gpa(grades)
 
 #=================== 3. A SIMPLE TEMPLATE =============================================
 template = """
