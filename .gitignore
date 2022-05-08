@@ -16,6 +16,8 @@ README.docx
 setup.py
 **/Python Basics
 **/temp
+*.ini
+tasks.py
 #================================
 # Byte-compiled / optimized / DLL files
 __pycache__/
