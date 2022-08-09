@@ -104,6 +104,8 @@ for record in records:
         )
 
     html = html_template.format(**report)
+    
+    # Create a folder called `output` in the working directory for the next line to work 
     HTML(string = html).write_pdf('./output/{}.pdf'.format(report['student']), stylesheets=[css])
 
 
