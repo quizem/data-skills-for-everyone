@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Report Card</title>
+	
+</head>
+<body>
+    
+    <div class='container' style="border:2px solid black; width: 600px; padding: 0;">
+        <div class="alert alert-secondary" role="alert">
+            <h1 style="text-align:center">REPORT CARD</h1>
+          </div>
+        
+            <h3 style="text-align:center">Data Skills for Everyone</h3>
+            <h5 style="text-align:center">{{student}}</h5>
+            <p style="text-align:center">Semester I</p>     
+       
+        <table class="table">
+            <thead class="table-dark">
+                <tr>
+                    <th>Subject</th>
+                    <th>Score</th>
+                    <th>Grade</th>
+                    <th>GPA</th>
+                </tr>
+            </thead>
+            
+            <tr>
+                <td>Math</td>
+                <td>{{math_score}}</td>
+                <td>{{math_grade}}</td>
+                <td>{{math_gpa}}</td>
+            </tr>
+            <tr>
+                <td>Chemistry</td>
+                <td>{{chem_score}}</td>
+                <td>{{chem_grade}}</td>
+                <td>{{chem_gpa}}</td>
+            </tr>
+
+            <tr>
+                <td>Physics</td>
+                <td>{{phy_score}}</td>
+                <td>{{phy_grade}}</td>
+                <td>{{phy_gpa}}</td>
+            </tr>
+            <tfoot>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>Total</td>
+                    <td>{{total_gpa}}</td>
+                </tr>
+    
+            </tfoot>
+        </table>
+    </div>
+</body>
+</html>
