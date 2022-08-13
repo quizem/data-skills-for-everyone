@@ -7,7 +7,6 @@ topics.xlsx
 *.pdf
 *slides.md
 **/images
-**/TryPython
 temp.py
 *tasks.py
 README.docx
