@@ -1,0 +1,26 @@
+https://www.kaggle.com/datasets/sanjeevsahu/web-log-access-dataset?resource=download
+
+Data column names: 'host', 'x','y', 'time', 'z', 'url', 'response', 'size'
+
+Here are few things that you can do to analyze.
+
+Write a regular expression to convert the data in a structured o/p (sample o/p shown below)
+• Use the regular expression to read the data using pandas read_csv function.
+
+Identify number of requests for each hour and plot the same using line plot. Use the following instructions
+• Convert the data type of time column to datetime using pd.to_datetime() with appropriate time format
+• Use resample function to identify number of requests per hour and plot the same using line plot
+• Interpret the chart and identify from which hour of the day, the number of page visits increases
+
+Identify different types of request_type along with their frequencies.
+
+Analyze size column using the following instruction
+• Convert size column to numeric (Remove special characters, if necessary)
+• Using pd.cut, divide size column in to 10 bins.
+• Identify the bin which has the maximum count
+
+Using url column, create a new column file_type based on following conditions
+• If the url ends with either .gif or .jpg, file_type will be image
+• If the url ends with .html, file_type will be html
+• Else file_type will be Other
+• Identify how many times images were rendered
