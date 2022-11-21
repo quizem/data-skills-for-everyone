@@ -17,6 +17,7 @@ setup.py
 **/temp
 *.ini
 tasks.py
+dataverse.txt
 #================================
 # Byte-compiled / optimized / DLL files
 __pycache__/
